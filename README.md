@@ -8,4 +8,5 @@ Wing Watch is an Android app for birdwatchers.
 ## 🔗 Links
 [Chrono Repo](https://github.com/MrMatrix2108/ChronoApp)  
 [Mapbox Website](https://www.mapbox.com/)  
+[Mapbox Documentation](https://docs.mapbox.com/android/maps/guides/)  
 [eBird API 2.0 Documentation](https://documenter.getpostman.com/view/664302/S1ENwy59)
